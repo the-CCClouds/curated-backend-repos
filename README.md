@@ -6,7 +6,8 @@
 --- 
 
 ## 📂 Java / Spring 系列
-
+- [realworld-spring-boot-native](https://github.com/the-CCClouds/realworld-spring-boot-native)  
+    一个较为不错的骨架级项目，接口标准明确，可用于做demo或快速搭后端。
 
 ## 📂 Node.js / Express 系列
 
