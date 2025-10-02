@@ -12,6 +12,9 @@
 - [spring-boot-admin](https://github.com/the-CCClouds/spring-boot-admin)
     该项目提供监控/管理界面，用来管理 Spring Boot 应用，包括通过 Actuator 暴露的健康状态、度量指标（metrics）、日志等功能。适合用于运维／监控／后台工具类用途。
 
+- [spring-boot-plus](https://github.com/geekidea/spring-boot-plus)
+    一个脚手架框架。整合常用组件（MyBatis-Plus, Redis, Swagger / Knife4j 等），适合快速搭建项目骨架／后台管理系统。
+
 - [realworld-spring-boot-native](https://github.com/the-CCClouds/realworld-spring-boot-native)  
     一个较为不错的骨架级项目，接口标准明确，可用于做demo或快速搭后端。
 
