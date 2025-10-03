@@ -18,6 +18,12 @@
 - [realworld-spring-boot-native](https://github.com/the-CCClouds/realworld-spring-boot-native)  
     一个较为不错的骨架级项目，接口标准明确，可用于做demo或快速搭后端。
 
+- [spring-petclinic](https://github.com/the-CCClouds/spring-petclinic)
+    一个经典示例应用，展现了Spring Boot的基础用法。文档和示例齐全，是Spring官方示范系列的一部分。非常适合拿来做模板或快速启动项目
+
+- [metasfresh](https://github.com/the-CCClouds/metasfresh)
+    一个完整开源 ERP 系统，有 Rest API + Web 前端等。适合做企业级业务模板，模块丰富。
+
 ## 📂 Node.js / Express 系列
 
 
