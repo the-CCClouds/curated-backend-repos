@@ -24,6 +24,9 @@
 - [metasfresh](https://github.com/the-CCClouds/metasfresh)
     一个完整开源 ERP 系统，有 Rest API + Web 前端等。适合做企业级业务模板，模块丰富。
 
+- [java-microservices-examples](https://github.com/the-CCClouds/java-microservices-examples)
+    微服务示例集合，用 Spring Boot + Spring Cloud + Gateway 等。适合学习微服务架构、Service Discovery、配置中心、API 网关等。
+
 ## 📂 Node.js / Express 系列
 
 
