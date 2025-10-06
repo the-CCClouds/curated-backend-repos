@@ -27,8 +27,11 @@
 - [java-microservices-examples](https://github.com/the-CCClouds/java-microservices-examples)
     微服务示例集合，用 Spring Boot + Spring Cloud + Gateway 等。适合学习微服务架构、Service Discovery、配置中心、API 网关等。
 
--
+- [piggymetrics](https://github.com/the-CCClouds/piggymetrics)
+    是一个微服务架构的示例项目，用来教学／演示 Spring Cloud + Spring Boot + Docker 等组合的实际用法。包括认证服务、统计服务等按功能分拆的服务，对学习分布式、微服务、服务之间通信、配置中心、负载治理等非常有用。
 
+- [tolgee-platform](https://github.com/the-CCClouds/tolgee-platform)
+    一个 国际化（i18n）管理平台，功能偏“平台工具 / 运维 /管理”类。使用技术：Kotlin + Spring Boot 后端。
 ## 📂 Node.js / Express 系列
 
 
