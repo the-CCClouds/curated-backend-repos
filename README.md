@@ -32,6 +32,9 @@
 
 - [tolgee-platform](https://github.com/the-CCClouds/tolgee-platform)
     一个 国际化（i18n）管理平台，功能偏“平台工具 / 运维 /管理”类。使用技术：Kotlin + Spring Boot 后端。
+
+- [booking-microservices-java-spring-boot](https://github.com/the-CCClouds/booking-microservices-java-spring-boot)
+    一个用于构建分布式系统基础设施的实践型虚拟微服务项目，基于最新的技术与架构，例如垂直切片架构（Vertical Slice Architecture）、事件驱动架构（Event Driven Architecture）、CQRS、DDD、gRPC、MongoDB、RabbitMQ，以及 Java Spring Boot。
 ## 📂 Node.js / Express 系列
 
 
