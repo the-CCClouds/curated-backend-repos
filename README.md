@@ -35,6 +35,11 @@
 
 - [booking-microservices-java-spring-boot](https://github.com/the-CCClouds/booking-microservices-java-spring-boot)
     一个用于构建分布式系统基础设施的实践型虚拟微服务项目，基于最新的技术与架构，例如垂直切片架构（Vertical Slice Architecture）、事件驱动架构（Event Driven Architecture）、CQRS、DDD、gRPC、MongoDB、RabbitMQ，以及 Java Spring Boot。
+
+- [spring-boot-demo](https://github.com/the-CCClouds/spring-boot-demo)
+    一个用来深度学习并实战 `spring boot` 的项目，包含很多 Spring Boot 的使用案例、各种模块组合、常见功能演示等。
+
+--- 
 ## 📂 Node.js / Express 系列
 
 
