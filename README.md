@@ -44,5 +44,8 @@
 - [Ghost](https://github.com/the-CCClouds/Ghost)
     开源的 Headless CMS / 博客与出版平台，面向付费订阅、会员制、新闻稿/发布场景；成熟、能直接用于生产。Ghost 的代码基于 Node.js，项目包含后端服务、管理界面、主题系统等。
 
+- [keystone](https://github.com/the-CCClouds/keystone)
+    Headless CMS 与应用框架（描述 schema 即自动生成 GraphQL / REST API + 管理 UI）。classic 版本是基于 Express + Mongoose 的实现，对想在 Express 上做 CMS/后台管理的团队非常有帮助。
+
 ## 📂 Python / Django 系列
 
