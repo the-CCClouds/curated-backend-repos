@@ -47,5 +47,9 @@
 - [keystone](https://github.com/the-CCClouds/keystone)
     Headless CMS 与应用框架（描述 schema 即自动生成 GraphQL / REST API + 管理 UI）。classic 版本是基于 Express + Mongoose 的实现，对想在 Express 上做 CMS/后台管理的团队非常有帮助。
 
+- [socket.io](https://github.com/the-CCClouds/socket.io)
+    实时通讯框架（WebSocket 封装），服务器端 Node.js 实现经常与 Express 一起使用（很多 Express 项目直接把 socket.io 挂到同一 HTTP 服务器上）。它本身不是完整业务 App，但在构建实时聊天、协作、推送功能时几乎是标准配件。
+
+
 ## 📂 Python / Django 系列
 
