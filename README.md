@@ -50,6 +50,12 @@
 - [socket.io](https://github.com/the-CCClouds/socket.io)
     实时通讯框架（WebSocket 封装），服务器端 Node.js 实现经常与 Express 一起使用（很多 Express 项目直接把 socket.io 挂到同一 HTTP 服务器上）。它本身不是完整业务 App，但在构建实时聊天、协作、推送功能时几乎是标准配件。
 
+- [express-rest-boilerplate](https://github.com/the-CCClouds/express-rest-boilerplate)
+    使用 Express + MongoDB，带有请求验证、错误处理、Docker 支持等，适合做 REST API 的基础模板。
+
+- [node-express-boilerplate](https://github.com/the-CCClouds/node-express-boilerplate)
+    一个用于快速构建 RESTful API 的 boilerplate，Express + Mongoose 等栈，可以直接拿来做 API 服务骨架。
+
 
 ## 📂 Python / Django 系列
 
